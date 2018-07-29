@@ -6,7 +6,7 @@ VowelDash is a text encryption that I made for both testing and learning purpose
 ## How does it work?
 Good question.
 
-Simply put a <Vowel> as the head and <Symbols> on the back
+Simply put a \<Vowel\> as the head and \<Symbols\> on the back
 The symbols (in order) are **-+='/:** (but for letters "A" and "E", they only have "-+='")
   
 (For the dashes "-", they're a little bit confusing..)
