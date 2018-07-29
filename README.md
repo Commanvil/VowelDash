@@ -20,7 +20,7 @@ There is also the **x** symbol which is very complicated. It takes the previous 
 
 ## Examples plez
 ```
-Readable text >> VowelDash
+VowelDash >> Readable text
 
 A >> A (obviously)
 A+ >> B
