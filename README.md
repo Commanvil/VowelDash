@@ -38,4 +38,4 @@ I-:O:Ex'xx/:I-:E= >> INTERESTING
 ok, you understand? no? good
 (btw, backslashes also work so something like I\'/ >> I'M)
 ```
-(Also special thanks to [Charon77](github.com/Charon77) for helping me make the decoder)
+(Also special thanks to [Charon77](https://github.com/Charon77) for helping me make the decoder)
