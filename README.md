@@ -6,14 +6,22 @@ VowelDash is a text encryption that I made for both testing and learning purpose
 ## How does it work?
 Good question.
 
-Simply put a \<Vowel\> as the head and \<Symbols\> on the back
+Simply put a \<Vowel\> as the head and \<Symbols\> on the back 
+<br>
 The symbols (in order) are **-+='/:** (but for letters "A" and "E", they only have "-+='")
-  
+<br>
+Vowel + Symbol ends >> Letter
+<br>
+The symbol ends "shift" the letters accordingly. A+ would be A + 1 = B, A= would be A + 2 = C
+<br>
+There is also the **x** symbol which is very complicated. It takes the previous 2 letters (including other x's) and kinda convert into that letter. so A:Ix' is BID (the x turned into A, A' is D)
+<br>
 (For the dashes "-", they're a little bit confusing..)
 
 ## Examples plez
 ```
 Readable text >> VowelDash
+
 A >> A (obviously)
 A+ >> B
 A+-' >> BAD
@@ -24,4 +32,9 @@ A/ >> INCORRECT
 E >> E
 E+ >> F
 This is because vowel A is not allowed to surpass vowel E
+E'-I''O >> HELLO
+I-:O:Ex'xx/:I-:E= >> INTERESTING
+
+ok, you understand? no? good
+(btw, backslashes also work so something like I\'/ >> I'M)
 ```
