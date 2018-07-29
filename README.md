@@ -1,5 +1,5 @@
 # VowelDash
-![vdAlphabet](voweldash.png)
+
 ## What is VowelDash?
 VowelDash is a text encryption that I made for both testing and learning purposes
 
@@ -39,3 +39,5 @@ ok, you understand? no? good
 (btw, backslashes also work so something like I\'/ >> I'M)
 ```
 (Also special thanks to [Charon77](https://github.com/Charon77) for helping me make the decoder)
+
+![vdAlphabet](voweldash.png)
