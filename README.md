@@ -25,9 +25,9 @@ VowelDash >> Readable text
 A >> A (obviously)
 A+ >> B
 A+-' >> BAD
-A- >> Imperfect (When you just want 'A', but it doesn't have any other symbols beside it, don't type the "-")
+A- >> [Imperfect] (When you just want 'A', but it doesn't have any other symbols beside it, don't type the "-")
 A-- >> AA (Don't get confused! The number of symbols are going to be the number of letters, so 2 dashes mean 2 letter "A"s)
-A/ >> INCORRECT
+A/ >> [Incorrect]
 **If you want to type "E" or "F", instead type:**
 E >> E
 E+ >> F
